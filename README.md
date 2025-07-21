@@ -40,7 +40,7 @@ This project was created as a personal practice to improve skills in animation a
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/react-gsap-landing-page.git
+git clone https://github.com/mladenvreco/react-gsap-landing-page.git
 
 # Navigate into the project directory
 cd react-gsap-landing-page
